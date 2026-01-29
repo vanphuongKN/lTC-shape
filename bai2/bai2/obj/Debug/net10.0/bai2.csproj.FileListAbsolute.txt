@@ -1,0 +1,14 @@
+D:\C_sap\bai2\bai2\obj\Debug\net10.0\bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sap\bai2\bai2\obj\Debug\net10.0\bai2.AssemblyInfoInputs.cache
+D:\C_sap\bai2\bai2\obj\Debug\net10.0\bai2.AssemblyInfo.cs
+D:\C_sap\bai2\bai2\obj\Debug\net10.0\bai2.csproj.CoreCompileInputs.cache
+D:\C_sap\bai2\bai2\bin\Debug\net10.0\bai2.exe
+D:\C_sap\bai2\bai2\bin\Debug\net10.0\bai2.deps.json
+D:\C_sap\bai2\bai2\bin\Debug\net10.0\bai2.runtimeconfig.json
+D:\C_sap\bai2\bai2\bin\Debug\net10.0\bai2.dll
+D:\C_sap\bai2\bai2\bin\Debug\net10.0\bai2.pdb
+D:\C_sap\bai2\bai2\obj\Debug\net10.0\bai2.dll
+D:\C_sap\bai2\bai2\obj\Debug\net10.0\refint\bai2.dll
+D:\C_sap\bai2\bai2\obj\Debug\net10.0\bai2.pdb
+D:\C_sap\bai2\bai2\obj\Debug\net10.0\bai2.genruntimeconfig.cache
+D:\C_sap\bai2\bai2\obj\Debug\net10.0\ref\bai2.dll

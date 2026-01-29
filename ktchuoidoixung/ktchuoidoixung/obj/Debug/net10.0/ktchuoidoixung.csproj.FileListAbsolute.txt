@@ -1,0 +1,14 @@
+D:\C_sap\ktchuoidoixung\ktchuoidoixung\bin\Debug\net10.0\ktchuoidoixung.exe
+D:\C_sap\ktchuoidoixung\ktchuoidoixung\bin\Debug\net10.0\ktchuoidoixung.deps.json
+D:\C_sap\ktchuoidoixung\ktchuoidoixung\bin\Debug\net10.0\ktchuoidoixung.runtimeconfig.json
+D:\C_sap\ktchuoidoixung\ktchuoidoixung\bin\Debug\net10.0\ktchuoidoixung.dll
+D:\C_sap\ktchuoidoixung\ktchuoidoixung\bin\Debug\net10.0\ktchuoidoixung.pdb
+D:\C_sap\ktchuoidoixung\ktchuoidoixung\obj\Debug\net10.0\ktchuoidoixung.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sap\ktchuoidoixung\ktchuoidoixung\obj\Debug\net10.0\ktchuoidoixung.AssemblyInfoInputs.cache
+D:\C_sap\ktchuoidoixung\ktchuoidoixung\obj\Debug\net10.0\ktchuoidoixung.AssemblyInfo.cs
+D:\C_sap\ktchuoidoixung\ktchuoidoixung\obj\Debug\net10.0\ktchuoidoixung.csproj.CoreCompileInputs.cache
+D:\C_sap\ktchuoidoixung\ktchuoidoixung\obj\Debug\net10.0\ktchuoidoixung.dll
+D:\C_sap\ktchuoidoixung\ktchuoidoixung\obj\Debug\net10.0\refint\ktchuoidoixung.dll
+D:\C_sap\ktchuoidoixung\ktchuoidoixung\obj\Debug\net10.0\ktchuoidoixung.pdb
+D:\C_sap\ktchuoidoixung\ktchuoidoixung\obj\Debug\net10.0\ktchuoidoixung.genruntimeconfig.cache
+D:\C_sap\ktchuoidoixung\ktchuoidoixung\obj\Debug\net10.0\ref\ktchuoidoixung.dll
