@@ -1,0 +1,15 @@
+D:\C_sap\Dem_so_pt_chan\Dem_so_pt_chan\bin\Debug\net10.0\Dem_so_pt_chan.exe
+D:\C_sap\Dem_so_pt_chan\Dem_so_pt_chan\bin\Debug\net10.0\Dem_so_pt_chan.deps.json
+D:\C_sap\Dem_so_pt_chan\Dem_so_pt_chan\bin\Debug\net10.0\Dem_so_pt_chan.runtimeconfig.json
+D:\C_sap\Dem_so_pt_chan\Dem_so_pt_chan\bin\Debug\net10.0\Dem_so_pt_chan.dll
+D:\C_sap\Dem_so_pt_chan\Dem_so_pt_chan\bin\Debug\net10.0\Dem_so_pt_chan.pdb
+D:\C_sap\Dem_so_pt_chan\Dem_so_pt_chan\obj\Debug\net10.0\Dem_so_pt_chan.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sap\Dem_so_pt_chan\Dem_so_pt_chan\obj\Debug\net10.0\Dem_so_pt_chan.AssemblyInfoInputs.cache
+D:\C_sap\Dem_so_pt_chan\Dem_so_pt_chan\obj\Debug\net10.0\Dem_so_pt_chan.AssemblyInfo.cs
+D:\C_sap\Dem_so_pt_chan\Dem_so_pt_chan\obj\Debug\net10.0\Dem_so_pt_chan.csproj.CoreCompileInputs.cache
+D:\C_sap\Dem_so_pt_chan\Dem_so_pt_chan\obj\Debug\net10.0\Dem_so_pt_chan.sourcelink.json
+D:\C_sap\Dem_so_pt_chan\Dem_so_pt_chan\obj\Debug\net10.0\Dem_so_pt_chan.dll
+D:\C_sap\Dem_so_pt_chan\Dem_so_pt_chan\obj\Debug\net10.0\refint\Dem_so_pt_chan.dll
+D:\C_sap\Dem_so_pt_chan\Dem_so_pt_chan\obj\Debug\net10.0\Dem_so_pt_chan.pdb
+D:\C_sap\Dem_so_pt_chan\Dem_so_pt_chan\obj\Debug\net10.0\Dem_so_pt_chan.genruntimeconfig.cache
+D:\C_sap\Dem_so_pt_chan\Dem_so_pt_chan\obj\Debug\net10.0\ref\Dem_so_pt_chan.dll
