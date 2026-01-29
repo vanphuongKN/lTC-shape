@@ -1,0 +1,15 @@
+D:\C_sap\Tach_ho_va_ten\Tach_ho_va_ten\bin\Debug\net10.0\Tach_ho_va_ten.exe
+D:\C_sap\Tach_ho_va_ten\Tach_ho_va_ten\bin\Debug\net10.0\Tach_ho_va_ten.deps.json
+D:\C_sap\Tach_ho_va_ten\Tach_ho_va_ten\bin\Debug\net10.0\Tach_ho_va_ten.runtimeconfig.json
+D:\C_sap\Tach_ho_va_ten\Tach_ho_va_ten\bin\Debug\net10.0\Tach_ho_va_ten.dll
+D:\C_sap\Tach_ho_va_ten\Tach_ho_va_ten\bin\Debug\net10.0\Tach_ho_va_ten.pdb
+D:\C_sap\Tach_ho_va_ten\Tach_ho_va_ten\obj\Debug\net10.0\Tach_ho_va_ten.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sap\Tach_ho_va_ten\Tach_ho_va_ten\obj\Debug\net10.0\Tach_ho_va_ten.AssemblyInfoInputs.cache
+D:\C_sap\Tach_ho_va_ten\Tach_ho_va_ten\obj\Debug\net10.0\Tach_ho_va_ten.AssemblyInfo.cs
+D:\C_sap\Tach_ho_va_ten\Tach_ho_va_ten\obj\Debug\net10.0\Tach_ho_va_ten.csproj.CoreCompileInputs.cache
+D:\C_sap\Tach_ho_va_ten\Tach_ho_va_ten\obj\Debug\net10.0\Tach_ho_va_ten.sourcelink.json
+D:\C_sap\Tach_ho_va_ten\Tach_ho_va_ten\obj\Debug\net10.0\Tach_ho_va_ten.dll
+D:\C_sap\Tach_ho_va_ten\Tach_ho_va_ten\obj\Debug\net10.0\refint\Tach_ho_va_ten.dll
+D:\C_sap\Tach_ho_va_ten\Tach_ho_va_ten\obj\Debug\net10.0\Tach_ho_va_ten.pdb
+D:\C_sap\Tach_ho_va_ten\Tach_ho_va_ten\obj\Debug\net10.0\Tach_ho_va_ten.genruntimeconfig.cache
+D:\C_sap\Tach_ho_va_ten\Tach_ho_va_ten\obj\Debug\net10.0\ref\Tach_ho_va_ten.dll
