@@ -1,0 +1,15 @@
+D:\C_sap\Tim_gia_tri_lon_nhat\Tim_gia_tri_lon_nhat\obj\Debug\net10.0\Tim_gia_tri_lon_nhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sap\Tim_gia_tri_lon_nhat\Tim_gia_tri_lon_nhat\obj\Debug\net10.0\Tim_gia_tri_lon_nhat.AssemblyInfoInputs.cache
+D:\C_sap\Tim_gia_tri_lon_nhat\Tim_gia_tri_lon_nhat\obj\Debug\net10.0\Tim_gia_tri_lon_nhat.AssemblyInfo.cs
+D:\C_sap\Tim_gia_tri_lon_nhat\Tim_gia_tri_lon_nhat\obj\Debug\net10.0\Tim_gia_tri_lon_nhat.csproj.CoreCompileInputs.cache
+D:\C_sap\Tim_gia_tri_lon_nhat\Tim_gia_tri_lon_nhat\obj\Debug\net10.0\Tim_gia_tri_lon_nhat.sourcelink.json
+D:\C_sap\Tim_gia_tri_lon_nhat\Tim_gia_tri_lon_nhat\bin\Debug\net10.0\Tim_gia_tri_lon_nhat.exe
+D:\C_sap\Tim_gia_tri_lon_nhat\Tim_gia_tri_lon_nhat\bin\Debug\net10.0\Tim_gia_tri_lon_nhat.deps.json
+D:\C_sap\Tim_gia_tri_lon_nhat\Tim_gia_tri_lon_nhat\bin\Debug\net10.0\Tim_gia_tri_lon_nhat.runtimeconfig.json
+D:\C_sap\Tim_gia_tri_lon_nhat\Tim_gia_tri_lon_nhat\bin\Debug\net10.0\Tim_gia_tri_lon_nhat.dll
+D:\C_sap\Tim_gia_tri_lon_nhat\Tim_gia_tri_lon_nhat\bin\Debug\net10.0\Tim_gia_tri_lon_nhat.pdb
+D:\C_sap\Tim_gia_tri_lon_nhat\Tim_gia_tri_lon_nhat\obj\Debug\net10.0\Tim_gia_tri_lon_nhat.dll
+D:\C_sap\Tim_gia_tri_lon_nhat\Tim_gia_tri_lon_nhat\obj\Debug\net10.0\refint\Tim_gia_tri_lon_nhat.dll
+D:\C_sap\Tim_gia_tri_lon_nhat\Tim_gia_tri_lon_nhat\obj\Debug\net10.0\Tim_gia_tri_lon_nhat.pdb
+D:\C_sap\Tim_gia_tri_lon_nhat\Tim_gia_tri_lon_nhat\obj\Debug\net10.0\Tim_gia_tri_lon_nhat.genruntimeconfig.cache
+D:\C_sap\Tim_gia_tri_lon_nhat\Tim_gia_tri_lon_nhat\obj\Debug\net10.0\ref\Tim_gia_tri_lon_nhat.dll
