@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Tinh_tong_so_nguyen/1.0.0": {
+        "runtime": {
+          "Tinh_tong_so_nguyen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tinh_tong_so_nguyen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
