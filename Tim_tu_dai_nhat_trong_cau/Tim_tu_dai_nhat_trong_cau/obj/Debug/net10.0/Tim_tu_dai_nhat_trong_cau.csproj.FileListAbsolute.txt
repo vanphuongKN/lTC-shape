@@ -1,0 +1,15 @@
+D:\C_sap\Tim_tu_dai_nhat_trong_cau\Tim_tu_dai_nhat_trong_cau\bin\Debug\net10.0\Tim_tu_dai_nhat_trong_cau.exe
+D:\C_sap\Tim_tu_dai_nhat_trong_cau\Tim_tu_dai_nhat_trong_cau\bin\Debug\net10.0\Tim_tu_dai_nhat_trong_cau.deps.json
+D:\C_sap\Tim_tu_dai_nhat_trong_cau\Tim_tu_dai_nhat_trong_cau\bin\Debug\net10.0\Tim_tu_dai_nhat_trong_cau.runtimeconfig.json
+D:\C_sap\Tim_tu_dai_nhat_trong_cau\Tim_tu_dai_nhat_trong_cau\bin\Debug\net10.0\Tim_tu_dai_nhat_trong_cau.dll
+D:\C_sap\Tim_tu_dai_nhat_trong_cau\Tim_tu_dai_nhat_trong_cau\bin\Debug\net10.0\Tim_tu_dai_nhat_trong_cau.pdb
+D:\C_sap\Tim_tu_dai_nhat_trong_cau\Tim_tu_dai_nhat_trong_cau\obj\Debug\net10.0\Tim_tu_dai_nhat_trong_cau.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sap\Tim_tu_dai_nhat_trong_cau\Tim_tu_dai_nhat_trong_cau\obj\Debug\net10.0\Tim_tu_dai_nhat_trong_cau.AssemblyInfoInputs.cache
+D:\C_sap\Tim_tu_dai_nhat_trong_cau\Tim_tu_dai_nhat_trong_cau\obj\Debug\net10.0\Tim_tu_dai_nhat_trong_cau.AssemblyInfo.cs
+D:\C_sap\Tim_tu_dai_nhat_trong_cau\Tim_tu_dai_nhat_trong_cau\obj\Debug\net10.0\Tim_tu_dai_nhat_trong_cau.csproj.CoreCompileInputs.cache
+D:\C_sap\Tim_tu_dai_nhat_trong_cau\Tim_tu_dai_nhat_trong_cau\obj\Debug\net10.0\Tim_tu_dai_nhat_trong_cau.sourcelink.json
+D:\C_sap\Tim_tu_dai_nhat_trong_cau\Tim_tu_dai_nhat_trong_cau\obj\Debug\net10.0\Tim_tu_dai_nhat_trong_cau.dll
+D:\C_sap\Tim_tu_dai_nhat_trong_cau\Tim_tu_dai_nhat_trong_cau\obj\Debug\net10.0\refint\Tim_tu_dai_nhat_trong_cau.dll
+D:\C_sap\Tim_tu_dai_nhat_trong_cau\Tim_tu_dai_nhat_trong_cau\obj\Debug\net10.0\Tim_tu_dai_nhat_trong_cau.pdb
+D:\C_sap\Tim_tu_dai_nhat_trong_cau\Tim_tu_dai_nhat_trong_cau\obj\Debug\net10.0\Tim_tu_dai_nhat_trong_cau.genruntimeconfig.cache
+D:\C_sap\Tim_tu_dai_nhat_trong_cau\Tim_tu_dai_nhat_trong_cau\obj\Debug\net10.0\ref\Tim_tu_dai_nhat_trong_cau.dll
