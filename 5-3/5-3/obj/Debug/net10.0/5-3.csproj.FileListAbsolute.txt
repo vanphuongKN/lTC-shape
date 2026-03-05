@@ -1,0 +1,15 @@
+D:\C_sap\5-3\5-3\obj\Debug\net10.0\5-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sap\5-3\5-3\obj\Debug\net10.0\5-3.AssemblyInfoInputs.cache
+D:\C_sap\5-3\5-3\obj\Debug\net10.0\5-3.AssemblyInfo.cs
+D:\C_sap\5-3\5-3\obj\Debug\net10.0\5-3.csproj.CoreCompileInputs.cache
+D:\C_sap\5-3\5-3\obj\Debug\net10.0\5-3.sourcelink.json
+D:\C_sap\5-3\5-3\bin\Debug\net10.0\5-3.exe
+D:\C_sap\5-3\5-3\bin\Debug\net10.0\5-3.deps.json
+D:\C_sap\5-3\5-3\bin\Debug\net10.0\5-3.runtimeconfig.json
+D:\C_sap\5-3\5-3\bin\Debug\net10.0\5-3.dll
+D:\C_sap\5-3\5-3\bin\Debug\net10.0\5-3.pdb
+D:\C_sap\5-3\5-3\obj\Debug\net10.0\5-3.dll
+D:\C_sap\5-3\5-3\obj\Debug\net10.0\refint\5-3.dll
+D:\C_sap\5-3\5-3\obj\Debug\net10.0\5-3.pdb
+D:\C_sap\5-3\5-3\obj\Debug\net10.0\5-3.genruntimeconfig.cache
+D:\C_sap\5-3\5-3\obj\Debug\net10.0\ref\5-3.dll
